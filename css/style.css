@@ -57,11 +57,14 @@ header ul li a {
 
 a:hover {
    color: blue;
+   box-shadow: 0px 0px 15px darkblue;
 }
 
 a:active {
    color: red;
 }
+
+
 
 /* BOX ********  */
 .box .contained img {
